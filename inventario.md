@@ -6,4 +6,8 @@
 ./processori.md
 ./schede_madri.md
 
+### PERIFERICHE
+
+
+
 Elettronica Padovana
